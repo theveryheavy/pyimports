@@ -2,7 +2,7 @@
 name: Analysis issue
 about: Report incorrect dependency detection or static analysis behavior
 title: "[ANALYSIS]"
-labels: bug
+labels: analysis
 assignees: ''
 
 ---
